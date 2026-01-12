@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.radionl" name="RadioNL" version="1.0.5" provider-name="[COLOR blue][B]Blue Sun Corporation[/B][/COLOR]">
+<addon id="plugin.audio.radionl" name="RadioNL" version="1.0.6" provider-name="[COLOR blue][B]Blue Sun Corporation[/B][/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.kodi-six" />
@@ -9,7 +9,7 @@
 	</extension>
 	<extension  point="xbmc.addon.metadata">
 		<summary lang="nl">Nederlandse radio streams plugin</summary>
-		<description lang="nl">Luister en kijk eenvoudig naar meer dan 300(!) Nederlandse radios streams. De NL Radio plugin bevat enkel openbare radiostreams. Mist u een zender of doet een stream het niet meer? Laat het ons weten op github.</description>
+		<description lang="nl">Luister naar Nederlandse radios streams. De NL Radio plugin bevat enkel openbare radiostreams. Doet een stream het niet meer? Laat het ons weten op github.</description>
 		<disclaimer lang="da_DK">NL Radio udbydes som det er. Vi påtager os intet ansvar for mulige (men højst usandsynlige) skader forårsaget på dit system. Vi tager heller ikke ansvar for det indhold, der kan ses ved hjælp af dette add-on eller eventuelle konsekvenser af at bruge dette add-on til at se indhold via indholdsudbydernes platforme.</disclaimer>
         	<disclaimer lang="en_GB">NL Radio is provided as is. We do not take any responsibility for possible (but highly unlikely) damage caused to your system. Nor do we take responsibility for the content that can be watched using this add-on or any consequences of using this add-on to watch content via the content providers&apos; platforms.</disclaimer>
         	<disclaimer lang="en_US">NL Radio is provided as is. We do not take any responsibility for possible (but highly unlikely) damage caused to your system. Nor do we take responsibility for the content that can be watched using this add-on or any consequences of using this add-on to watch content via the content providers&apos; platforms.</disclaimer>
@@ -22,7 +22,9 @@
 		<license>GPL-3.0-or-later</license>
 		<website>https://github.io/</website>
 		<source>https://github.com/Eddict/kodi-addon-radionl/tree/main/plugin.audio.radionl/</source>
-		<news>[B]Releasenotes V1.0.5 (4 September 2021)[/B]
+		<news>[B]Releasenotes V1.0.6 (12 January 2026)[/B]
+		[COLOR orange]Changed: Removed many crap stations[/COLOR]
+		[B]Releasenotes V1.0.5 (4 September 2021)[/B]
 		[COLOR orange]Gewijzigd: Full upgrade to python 3[/COLOR]
 		[B]Releasenotes V0.0.4 (3 September 2021)[/B]
 		[COLOR orange]Gewijzigd: Arrow Classic Rock
